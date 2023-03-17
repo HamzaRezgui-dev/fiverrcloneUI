@@ -1,8 +1,8 @@
 import React from "react";
 import "./messages.scss";
 
-const messages = () => {
-  return <div>messages</div>;
+const Messages = () => {
+  return <div>Messages</div>;
 };
 
-export default messages;
+export default Messages;
